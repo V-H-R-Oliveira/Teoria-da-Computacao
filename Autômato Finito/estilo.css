@@ -1,0 +1,22 @@
+#title, p
+{
+  text-align: center;
+  text-decoration: underline;
+}
+
+fieldset
+{
+  border: 2px solid black;
+  width: 200px;
+  margin-left: 42%
+}
+
+input
+{
+  margin-left: 5%;
+}
+
+button
+{
+  margin-left: 32%;
+}
