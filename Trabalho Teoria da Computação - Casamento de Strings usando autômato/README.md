@@ -1,4 +1,4 @@
-#Teoria da Computação - endsWith, startsWith e contains
+# Teoria da Computação - endsWith, startsWith e contains
 ====================================================================================================================================================================================================
 
 ## startsWith
